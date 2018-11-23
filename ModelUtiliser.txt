@@ -1,0 +1,2 @@
+dans la question 1 et 2 on a utilisé le pattern Singleton. 
+dans la question 3 on a utiliser le pattern abstract factory.
